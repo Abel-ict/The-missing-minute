@@ -1,0 +1,151 @@
+[
+  {
+    "index": 0,
+    "created_at_utc": "2026-10-24T08:46:10.429271+00:00",
+    "event": {
+      "message": "Genesis block"
+    },
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "4cd05fe848a07ec10a4649a440764fda08784be28332083d0ff825d57c0ee501"
+  },
+  {
+    "index": 1,
+    "created_at_utc": "2026-10-24T08:46:10.429446+00:00",
+    "event": {
+      "event_id": "EVT-00839",
+      "timestamp": "2026-10-22 04:10:00",
+      "username": "target_02",
+      "ip_address": "172.16.8.219",
+      "action": "bulk_file_read",
+      "anomaly_score": -0.1632
+    },
+    "previous_hash": "4cd05fe848a07ec10a4649a440764fda08784be28332083d0ff825d57c0ee501",
+    "hash": "655338bbcdac5ccde39e81bc98e1932b2978e9adff4a8fb3209ccba37476f722"
+  },
+  {
+    "index": 2,
+    "created_at_utc": "2026-10-24T08:46:10.429573+00:00",
+    "event": {
+      "event_id": "EVT-01227",
+      "timestamp": "2026-10-22 23:16:00",
+      "username": "target_08",
+      "ip_address": "172.16.8.243",
+      "action": "admin_action",
+      "anomaly_score": -0.1558
+    },
+    "previous_hash": "655338bbcdac5ccde39e81bc98e1932b2978e9adff4a8fb3209ccba37476f722",
+    "hash": "5aaa94b7bfd6b791966951e0ab8191a0dc918cd1738d46bcfee769f0f0558ecc"
+  },
+  {
+    "index": 3,
+    "created_at_utc": "2026-10-24T08:46:10.429648+00:00",
+    "event": {
+      "event_id": "EVT-00407",
+      "timestamp": "2026-10-21 00:03:00",
+      "username": "target_02",
+      "ip_address": "172.16.4.180",
+      "action": "bulk_file_read",
+      "anomaly_score": -0.151
+    },
+    "previous_hash": "5aaa94b7bfd6b791966951e0ab8191a0dc918cd1738d46bcfee769f0f0558ecc",
+    "hash": "c6a48ff95b8980df227bef256c55b30c6249c07336473bf20f92bbee862f8933"
+  },
+  {
+    "index": 4,
+    "created_at_utc": "2026-10-24T08:46:10.429721+00:00",
+    "event": {
+      "event_id": "EVT-00826",
+      "timestamp": "2026-10-22 01:13:00",
+      "username": "target_01",
+      "ip_address": "172.16.8.56",
+      "action": "admin_action",
+      "anomaly_score": -0.1502
+    },
+    "previous_hash": "c6a48ff95b8980df227bef256c55b30c6249c07336473bf20f92bbee862f8933",
+    "hash": "308eca8359a550010f21c7d5dcde8ecf164a1a03b91ecf277ab3ea5a09b8dbbb"
+  },
+  {
+    "index": 5,
+    "created_at_utc": "2026-10-24T08:46:10.429775+00:00",
+    "event": {
+      "event_id": "EVT-00823",
+      "timestamp": "2026-10-22 00:53:00",
+      "username": "target_07",
+      "ip_address": "172.16.3.41",
+      "action": "admin_action",
+      "anomaly_score": -0.1463
+    },
+    "previous_hash": "308eca8359a550010f21c7d5dcde8ecf164a1a03b91ecf277ab3ea5a09b8dbbb",
+    "hash": "80d74f8e40799b9e978a59b91de9f1bcfa8928e163b007c3a6d5cd6f7b944a7b"
+  },
+  {
+    "index": 6,
+    "created_at_utc": "2026-10-24T08:46:10.429820+00:00",
+    "event": {
+      "event_id": "EVT-01221",
+      "timestamp": "2026-10-22 23:03:00",
+      "username": "target_02",
+      "ip_address": "172.16.3.62",
+      "action": "admin_action",
+      "anomaly_score": -0.1432
+    },
+    "previous_hash": "80d74f8e40799b9e978a59b91de9f1bcfa8928e163b007c3a6d5cd6f7b944a7b",
+    "hash": "4e329ae9da566c8a73904e7eee8da74ca0b32e34746d1390282e3a1acec72696"
+  },
+  {
+    "index": 7,
+    "created_at_utc": "2026-10-24T08:46:10.429863+00:00",
+    "event": {
+      "event_id": "EVT-00819",
+      "timestamp": "2026-10-21 23:26:00",
+      "username": "target_02",
+      "ip_address": "172.16.6.199",
+      "action": "login_failed",
+      "anomaly_score": -0.1407
+    },
+    "previous_hash": "4e329ae9da566c8a73904e7eee8da74ca0b32e34746d1390282e3a1acec72696",
+    "hash": "7b10c4f7095fa249332c7358261a9a873b9b70ecc300e4060245be8aecf9f8fc"
+  },
+  {
+    "index": 8,
+    "created_at_utc": "2026-10-24T08:46:10.429905+00:00",
+    "event": {
+      "event_id": "EVT-00408",
+      "timestamp": "2026-10-21 00:08:00",
+      "username": "target_01",
+      "ip_address": "172.16.6.19",
+      "action": "login_failed",
+      "anomaly_score": -0.1402
+    },
+    "previous_hash": "7b10c4f7095fa249332c7358261a9a873b9b70ecc300e4060245be8aecf9f8fc",
+    "hash": "61963b56866d8a59ea1a80905d7ecae5a95e5210038469855339115480ca1bba"
+  },
+  {
+    "index": 9,
+    "created_at_utc": "2026-10-24T08:46:10.429947+00:00",
+    "event": {
+      "event_id": "EVT-00829",
+      "timestamp": "2026-10-22 02:00:00",
+      "username": "target_03",
+      "ip_address": "172.16.2.130",
+      "action": "bulk_file_read",
+      "anomaly_score": -0.1386
+    },
+    "previous_hash": "61963b56866d8a59ea1a80905d7ecae5a95e5210038469855339115480ca1bba",
+    "hash": "254e1394d4a41164ecd5d23edf0503d78f94d419debb728d70e72ed90652af21"
+  },
+  {
+    "index": 10,
+    "created_at_utc": "2026-10-24T08:46:10.429989+00:00",
+    "event": {
+      "event_id": "EVT-00423",
+      "timestamp": "2026-10-21 03:14:00",
+      "username": "target_03",
+      "ip_address": "172.16.6.22",
+      "action": "admin_action",
+      "anomaly_score": -0.1356
+    },
+    "previous_hash": "254e1394d4a41164ecd5d23edf0503d78f94d419debb728d70e72ed90652af21",
+    "hash": "34c9707ab0cf26a81c7484dbc1c9b2be97290d5f3aad9f78a9675a5199715abe"
+  }
+]
